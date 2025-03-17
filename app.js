@@ -29,3 +29,11 @@ function actualizarLista() {
         listaAmigos.appendChild(li);
     }
 }
+
+function sortearAmigo(){
+    if(amigdos.length == 0){
+        alert("no hay amigos disponibles para sortear. Agrega l menos uno.");
+        return;
+    }
+    
+}
